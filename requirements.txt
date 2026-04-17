@@ -14,7 +14,7 @@ celery[redis]==5.3.6
 
 # Authentication
 python-jose[cryptography]==3.3.0
-passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
 
 # Google APIs
 google-auth==2.27.0
