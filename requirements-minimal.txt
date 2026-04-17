@@ -1,0 +1,46 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy[asyncio]
+asyncpg
+alembic
+
+# Redis and Celery
+redis
+celery[redis]
+
+# Authentication
+python-jose[cryptography]
+bcrypt
+
+# Google APIs
+google-auth
+google-auth-oauthlib
+google-api-python-client
+
+# AI and LangChain
+openai
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+tiktoken
+
+# Utilities
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+structlog
+email-validator
+
+# Development
+pytest
+pytest-asyncio
+pytest-cov
+black
+ruff
+mypy
