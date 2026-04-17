@@ -259,10 +259,6 @@ docker run -p 8000:8000 --env-file .env life-copilot-backend
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👤 Author
 
 **Jino-X**
